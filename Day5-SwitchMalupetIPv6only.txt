@@ -221,7 +221,7 @@ Top 5 brands: PANG MAYAMAN
 1.Cisco = 75% =google,aws,azure,etc,
         Cisco Invented the FirstEthernetSW
         Cisco Patent Expires.
-2.Dell
+2.Dell/
 3.HP procurve
 4.Juniper/Fortinet
 5.Huawei      =
